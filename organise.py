@@ -1,5 +1,5 @@
 """
-Name: organise.py
+Name: File Organiser [organise.py]
 Description: This Python script organises files in a given path
 @Author: @GaganGulyani
 Repo:
