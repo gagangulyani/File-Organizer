@@ -2,7 +2,7 @@
 Name: File Organiser [organise.py]
 Description: This Python script organises files in a given path
 @Author: @GaganGulyani
-Repo:
+Github Repo: https://github.com/gagangulyani/File-Organiser
 """
 from pathlib import Path
 from sys import argv
