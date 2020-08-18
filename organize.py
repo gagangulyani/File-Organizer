@@ -1,8 +1,8 @@
 """
-Name: File Organiser [organise.py]
-Description: This Python script organises files in a given path
+Name: File Organizer [organise.py]
+Description: This Python script organizes files in a given path
 @Author: @GaganGulyani
-Github Repo: https://github.com/gagangulyani/File-Organiser
+Github Repo: https://github.com/gagangulyani/File-Organizer
 """
 from pathlib import Path
 from sys import argv

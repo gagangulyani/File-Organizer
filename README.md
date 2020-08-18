@@ -1,13 +1,13 @@
-# File Organiser
+# File Organizer
 
-This Python Script automatically organises files in specified path
+This Python Script automatically organizes files in specified path
 in one go.
 
 ## What you can do with it?
 
-- Add a shortcut in your terminal for automatically organising files
+- Add a shortcut in your terminal for automatically organizing files
 - Schedule the script to execute at a particular time every day
-- Keep your files organised..? :P
+- Keep your files organized..? :P
 
 ## How it Works?
 
@@ -18,13 +18,13 @@ in one go.
 ## Usage
 
 ```python
-python organise.py <dir_path>
+python organize.py <dir_path>
 ```
 
 ## Examples
 
 ```python
-python organise.py ~/Downloads
+python organize.py ~/Downloads
 ```
 
 ## Requirements
