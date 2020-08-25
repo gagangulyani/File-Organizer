@@ -72,7 +72,7 @@ PATH = Path(argv[1])
 
 for filename in PATH.iterdir():
 
-    path_to_file = PATH / filename
+    path_to_file = filename.absolute()
 
     if path_to_file.is_file():
         destination = PATH / get_dir(filename)
